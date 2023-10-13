@@ -167,3 +167,4 @@ cython_debug/
 /.idea/modules.xml
 /.idea/TelegramBot.iml
 /.idea/vcs.xml
+/invites.json
